@@ -1,0 +1,12 @@
+name: InventoryEquipEventPlugin
+main: com.gmail.alexdion93.inventoryequipevent.InventoryEquipEventPlugin
+version: 1.1.0
+description: Creates events that trigger when the player equips items. 
+api-version: 1.15
+load: POSTWORLD
+author: alexdion93@gmail.com
+website: www.homiedion.com
+depend: []
+prefix: IEE
+softdepend: []
+loadbefore: []
